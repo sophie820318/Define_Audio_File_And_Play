@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/defaudiofile.dir/src/pthread_define.c.o CMakeFiles/defaudiofile.dir/src/AudioCapture.cpp.o CMakeFiles/defaudiofile.dir/src/TimeStamp.c.o CMakeFiles/defaudiofile.dir/src/main_recorder.cpp.o  -o defaudiofile -lpthread -lasound 

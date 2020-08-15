@@ -1,0 +1,3 @@
+/mnt/hgfs/16.04.6_uwinshare/Define_Play_AudioFile/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/16.04.6_uwinshare/Define_Play_AudioFile/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/16.04.6_uwinshare/Define_Play_AudioFile/build/CMakeFiles/testaudioplayer.dir

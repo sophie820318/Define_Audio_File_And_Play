@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testaudioplayer.dir/src/pthread_define.c.o CMakeFiles/testaudioplayer.dir/src/AudioPlayer.cpp.o CMakeFiles/testaudioplayer.dir/src/TimeStamp.c.o CMakeFiles/testaudioplayer.dir/src/main_record_play.cpp.o  -o testaudioplayer -lpthread -lasound 
